@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poems for You</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #d63384;
+        }
+        .poem {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fbe3e8;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Poems for You</h1>
+        <p>Dear love, here are some poems I wrote just for you. ❤️</p>
+        
+        <div class="poem">
+            <h2>Title of Poem</h2>
+            <p>Roses are red, violets are blue,<br>
+            Every word I write, is just for you.</p>
+        </div>
+    </div>
+</body>
+</html>
